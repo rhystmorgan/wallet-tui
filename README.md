@@ -13,6 +13,13 @@ Manage your VeChain wallet from the Terminal!
 
 ---
 
+Hackathon Links:
+
+- Pitch Deck: https://docs.google.com/presentation/d/1gqhWvm1EkFbxwANZ4mChp7K6A0Sf5-SRdbe7KIISxlI/edit?usp=sharing
+- Demo Video: TBC
+
+---
+
 We need to find a name for this wallet application ... 
 
 ---
